@@ -3,7 +3,6 @@
 ## About Me
 - 🔭 I’m currently working on Devops Projects
 - 🌱 I’m currently learning Kubernetes
-- 👯 I’m looking to collaborate on 
 - 📫 How to reach me: olivierdja@yahoo.fr
 - ⚡ Fun fact: My favorite programming language is Python, and I use it for almost all my projects.
 
