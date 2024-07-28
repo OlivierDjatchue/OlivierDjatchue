@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning Kubernetes
 - 📫 How to reach me: olivierdja@yahoo.fr
 - ⚡ Fun fact: My favorite programming language is Python, and I use it for almost all my projects.
+- my CV : https://olivierdjatchue.github.io/CV/
 
 
 ## Skills
