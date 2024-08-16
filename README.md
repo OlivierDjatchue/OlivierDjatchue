@@ -15,10 +15,10 @@
   
 
 ## Projects
-- mini-projet-docker(project-link) - Containrized a small with docker and docker compose
-- [mini-projet-jenkims](project-link) - Pipeline CI/CD to build and derploy a webapp
-- [mini-projet-ansible](project-link) - Apache configuration on a remote server
-- [mini-projet-terraform](project-link) - Provisioning a VM on AWS
+-  [mini-projet-docker](https://github.com/OlivierDjatchue/mini-projet-docker.git) - Containrized a small with docker and docker compose
+- [mini-projet-jenkims](https://github.com/OlivierDjatchue/mini-projet-jenkins.git) - Pipeline CI/CD to build and derploy a webapp
+- [mini-projet-ansible](https://github.com/OlivierDjatchue/mini-projet-ansible.git) - Apache configuration on a remote server
+- [mini-projet-terraform](https://github.com/OlivierDjatchue/mini-projet-terraform.git) - Provisioning a VM on AWS
 
 
 ## Blog Posts
