@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Kubernetes
 - 📫 How to reach me: olivierdja@yahoo.fr
 - ⚡ Fun fact: My favorite programming language is Python, and I use it for almost all my projects.
-- my CV : https://olivierdjatchue.github.io/CV/
+- 📄 My CV: [https://olivierdjatchue.github.io/CV/](https://olivierdjatchue.github.io/CV/)
 
 
 ## Skills
@@ -17,7 +17,8 @@
 ## Projects
 - mini-projet-docker(project-link) - Containrized a small with docker and docker compose
 - [mini-projet-jenkims](project-link) - Pipeline CI/CD to build and derploy a webapp
-- 
+- [mini-projet-ansible](project-link) - Apache configuration on a remote server
+- [mini-projet-terraform](project-link) - Provisioning a VM on AWS
 
 
 ## Blog Posts
